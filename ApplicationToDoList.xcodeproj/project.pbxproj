@@ -13,6 +13,7 @@
 		1EFE06FB2BD14DCC005E3E76 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1EFE06FA2BD14DCC005E3E76 /* Preview Assets.xcassets */; };
 		1EFE07022BD15253005E3E76 /* CoreDataManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EFE07012BD15253005E3E76 /* CoreDataManger.swift */; };
 		1EFE07052BD153F4005E3E76 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1EFE07032BD153F4005E3E76 /* Model.xcdatamodeld */; };
+		1EFE07072BD1569A005E3E76 /* AddTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1EFE07062BD1569A005E3E76 /* AddTaskView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		1EFE06FA2BD14DCC005E3E76 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		1EFE07012BD15253005E3E76 /* CoreDataManger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManger.swift; sourceTree = "<group>"; };
 		1EFE07042BD153F4005E3E76 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
+		1EFE07062BD1569A005E3E76 /* AddTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				1EFE06F32BD14DCA005E3E76 /* ApplicationToDoListApp.swift */,
 				1EFE07012BD15253005E3E76 /* CoreDataManger.swift */,
+				1EFE07062BD1569A005E3E76 /* AddTaskView.swift */,
 				1EFE07032BD153F4005E3E76 /* Model.xcdatamodeld */,
 				1EFE06F52BD14DCA005E3E76 /* ContentView.swift */,
 				1EFE06F72BD14DCC005E3E76 /* Assets.xcassets */,
@@ -144,6 +147,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				1EFE06F62BD14DCA005E3E76 /* ContentView.swift in Sources */,
+				1EFE07072BD1569A005E3E76 /* AddTaskView.swift in Sources */,
 				1EFE07022BD15253005E3E76 /* CoreDataManger.swift in Sources */,
 				1EFE06F42BD14DCA005E3E76 /* ApplicationToDoListApp.swift in Sources */,
 				1EFE07052BD153F4005E3E76 /* Model.xcdatamodeld in Sources */,
